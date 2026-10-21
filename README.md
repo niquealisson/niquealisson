@@ -10,7 +10,7 @@ What I care about: tests that fail for the right reasons, suites that run on eve
 
 #### Toolbox
 
-| | |
+| Area | Tools |
 |---|---|
 | **Web automation** | Cypress · Playwright · Selenium WebDriver · Cucumber (BDD) |
 | **Mobile automation** | Appium · Maestro · Android & iOS · OCR / OpenCV visual testing |
